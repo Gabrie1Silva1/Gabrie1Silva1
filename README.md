@@ -1,14 +1,17 @@
-###Olá sou o Gabriel🤙
+###Olá sou o Gabriel Santos🤙
 
-##Opções de Contato
+##Opções de contato📳
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592994630924)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=&logoColor=white)](https://www.instagram.com/gabriel_sssl/)
 
+<hr>
 
 ![Gabrie1Silva1](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrie1Silva1&layout=compact)
 
-##Tecnologias que uso no meu cotidiano
+<hr>
+##Tecnologias que uso e estudo no meu cotidiano. 
+
 
 <div style="inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
